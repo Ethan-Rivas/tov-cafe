@@ -46,6 +46,10 @@ a {
   padding-bottom: 3px;
 }
 
+.social-icons {
+  margin-bottom: 80px;
+}
+
 .social-icons div.inline {
   padding-right: 25px;
 }

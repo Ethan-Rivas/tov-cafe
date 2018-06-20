@@ -20,6 +20,7 @@ a {
   position: absolute;
   top: 10%;
   width: 100%;
+  left: 0;
 }
 
 .logo-name {
@@ -52,6 +53,7 @@ a {
 
 .social-icons {
   margin-bottom: 80px;
+  padding-left: 40px;
 }
 
 .social-icons div.inline {
